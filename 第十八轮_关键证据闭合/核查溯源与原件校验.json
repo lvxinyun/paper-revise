@@ -1,0 +1,53 @@
+{
+  "time_utc": "2026-10-17T07:26:17.262679+00:00",
+  "inputs_sha256": {
+    "/workspace/paper-revise/第十七轮_论文质量审查与修订/系统评价_导师审阅修订版.docx": "a70501c7935122165c94acd35a3c217b25d4974a6849094f8134900d57e4d577",
+    "/workspace/paper-revise/第十七轮_论文质量审查与修订/PRISMA与研究数量一致性核查.xlsx": "39ed7ac6724975e4e35d2f0abaa0820b43b5aaac5b4b43374469f762512e457b",
+    "/workspace/paper-revise/第十七轮_论文质量审查与修订/导师审阅前仍需确认的问题.docx": "22b797db1f611a50b3baa4a60aebaff294b46c6a99caa458f63666c21c428dbc",
+    "/workspace/paper-revise/第十七轮_论文质量审查与修订/9项研究逐条证据核验表.xlsx": "1706c16638bfc3fd88c823bf43ecee3e6bd94de16e84982b52e6c724ce6301ed",
+    "/workspace/paper-revise/第十七轮_论文质量审查与修订/论文审稿问题清单.xlsx": "b74649124b8788713bbcb5d674dfb2a1e228a0cd6dd90f32ba363de4f4d83733",
+    "/workspace/paper-revise/第十五轮_最终候选研究证据矩阵/最终待关闭问题列表.docx": "9076696009648db6b0db3be9e4f105bc20b47a6c25c53771a0b17c74460e4733",
+    "/workspace/paper-revise/第十五轮_最终候选研究证据矩阵/最终候选研究证据矩阵.xlsx": "3e91c63133b9cccafb4c51afe2bfef01e351a0df563a869ac5ec481727752d41",
+    "/workspace/paper-revise/第十三轮_9项研究数据提取数据库/9项纳入研究数据提取表.xlsx": "0e756ef78531dc54af9105a1f101b36a2ad681931de51a36c0a890aa89512dc5",
+    "/workspace/paper-revise/第十三轮_9项研究数据提取数据库/研究分层汇总表.xlsx": "24eb4b8ee13826116f1a437e7673884c30a54c30a99b1e9ce3f3dc778544321f",
+    "/workspace/paper-revise/第十三轮_9项研究数据提取数据库/质量评价工具匹配表.xlsx": "fd581639a37735a7d6da1ce099cb6df9aa08e7b4183adc77569c8013330ae109",
+    "/workspace/paper-revise/研究方案确认与注册差异处理/第二轮至第三轮修改对照表.docx": "cfd6ab6e9e8ce6be24a7b6f800e10bc42f78fe77aea521289fbc9f0f63825669",
+    "/workspace/paper-revise/研究方案确认与注册差异处理/PROSPERO注册处理路径专业建议.docx": "c1ec081a83f668e0271053cba0a4be3f5126fd624887ace1cd92e320327d50a5",
+    "/workspace/paper-revise/研究方案确认与注册差异处理/36项研究受方案变化影响分析.xlsx": "c32cd5cb8385269c638691f2885d75d1a0ba762cee3fd7c1c29636d066dd60bc",
+    "/workspace/paper-revise/研究方案确认与注册差异处理/当前系统评价研究方案_待作者确认.docx": "9081c05e3887f59d3437641552d8474dfbd1b777c992a34b3e4f3afb0fd00f2d",
+    "/workspace/paper-revise/研究方案确认与注册差异处理/当前系统评价研究方案_第三轮定稿候选版.docx": "d070e3991b2a1af396f20e02f8d44ad70ae2a3a8e88224527e81b7dff3728e15",
+    "/workspace/paper-revise/研究方案确认与注册差异处理/导师最终决策表_修订版.docx": "eb9c83b62577fd2650769e3b67912ddd1ac74f0be7d7ffab462dd137a8008474",
+    "/workspace/paper-revise/研究方案确认与注册差异处理/供导师确认的关键决策清单.docx": "e80b706aadb7441a7970615c8cc2a9787363da1f4bc8ffff2873beadbc6a24c7",
+    "/workspace/paper-revise/研究方案确认与注册差异处理/当前系统评价研究方案_第二轮方法学修订版.docx": "2d1695e592de9cf3278de41e24a27279a9bf8ba5840e07ce0defc24a9fd9333d",
+    "/workspace/paper-revise/研究方案确认与注册差异处理/导师最终决策表.docx": "a1561b533ced585aace96eeb56d3ad1d20154fe3fced2a65259e375a13402b5c",
+    "/workspace/paper-revise/研究方案确认与注册差异处理/PROSPERO原方案与当前方案差异及时间线.xlsx": "d2a89076585016018b82e8d1cf70a39953cb63e0c1c11a9765db4c0bdfc3ca3c",
+    "/workspace/paper-revise/第十一轮_W01-W36资格裁决准备/W01-W36最终资格裁决表.xlsx": "325af48638afb8d084b32c1c4daf49a07257a0a791e6572b9c84d5ac309e17d9",
+    "/workspace/attachments/5d6a4ed0-83c3-493a-b1e6-cd46110c7b10/S4_36项研究_第7项正式质量评价工具路由锁定版_2026-10-08 (1).xlsx": "242e9267d8c082d779ab03fb3bb29497b851347488aa90c0e1b4c0d9fff11cc3",
+    "/workspace/attachments/e8967119-1139-42fd-a64b-51b0ab8cc34f/S4_36项研究_正式质量评价条目工作底稿_2026-10-08 (1).xlsx": "a90a73f5d543e061852923b705b93f2e531cafc87110da5d93787d24702f78c3",
+    "/workspace/paper-revise/第五轮_DOI全文核查/研究全文/W01.pdf": "dd9bf3f92457b8c95f91c8a49a5cea0d8cb8d6c7e07ef312fb8c72a9e8f38536",
+    "/workspace/paper-revise/第五轮_DOI全文核查/研究全文/W02.pdf": "8568bbb68c19bf009ae0993058745299726ad615362bc9e40aa7167ed0ccf6a8",
+    "/workspace/paper-revise/第五轮_DOI全文核查/研究全文/W03.pdf": "337ef0a2d01fdaf65550ed193d07d045b830d0671b5ea426b48a6f56dceb5ef5",
+    "/workspace/paper-revise/第五轮_DOI全文核查/研究全文/W04.pdf": "a16ababe761ef69cf1fed218d0d50229c48c4d831e709c43f542e2b7f73996be",
+    "/workspace/paper-revise/第五轮_DOI全文核查/研究全文/W05.pdf": "d3d78d77b7bf8ec59df3642d2783795d6db3c8ea2f9bcb123efb0b76a39735b1",
+    "/workspace/paper-revise/第五轮_DOI全文核查/研究全文/W06.pdf": "dea68b2797c8c01d06f9974c7242351bfa89abce571a52ba6de909ca41af5488",
+    "/workspace/attachments/bdb6f581-14f3-4d52-82d9-16fe75eba4a0/w07.pdf": "04c2f3d571fb007e229bb3282d34aaca87f51ab1aa40087d869c35fb0fdc1241",
+    "/workspace/attachments/9e8a4a56-da0a-4dd0-8cd4-435216b792a3/w17.pdf": "fe89ce54f49a99e440ee3d7ec33aa28153526cf8639bf79b7c3f65ec3e6107f6",
+    "/workspace/attachments/aee34813-c7e3-4107-ab89-a411d5a3b2f6/w21.pdf": "c63219c1e1f7848fd71bd7baa14c5cb98de65c009aa1a1f8d4ef0ef59645ca2c",
+    "/workspace/attachments/293b9e2d-7b4d-4cff-89e0-a56ae8467392/w26.pdf": "09ace43816d4533af38f60c8ef05b9c603c828ef3ffe30d427eb7c1cc49405ee",
+    "/workspace/attachments/ab918c43-4799-48fd-aae9-c6eb505cc71d/w27.pdf": "9130ce8b3759c6a60beff78f2e86912cb2c07649d6c7d0276ea9e32687eacbd1",
+    "/workspace/attachments/07d44e52-821f-4485-bfce-733fb6521b7c/w29.pdf": "04884599274c5af5f02e8c82a12d3ed8c57f6f39fdaa8d9d33e78adc93e779d3",
+    "/workspace/attachments/69bbaf23-947e-4415-b9dd-a4566ddddacd/w31.pdf": "a62611e4ab1dc1c6cf2b9051c5326253c03423ae9fef8e97706bcfb9be6013fe",
+    "/workspace/attachments/539697ba-e534-40d8-a3df-2f26a49ae3d5/w35新.pdf": "8a5467695c3560ce7d4e915b5e4dd58b219480337bd418f45ce86caed64f160d"
+  },
+  "eligibility_recommendation_counts": {
+    "EVIDENCE_SUPPORTED_INCLUDE": 14,
+    "PENDING": 22
+  },
+  "supported_class_counts": {
+    "A": 9,
+    "B": 2,
+    "C": 3
+  },
+  "human_queue_decisions": 0,
+  "formal_quality_completed": 0
+}
